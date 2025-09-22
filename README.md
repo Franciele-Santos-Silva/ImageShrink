@@ -1,6 +1,7 @@
 # ImageShrink - Compressor de Imagens com Python
 
 Este projeto faz parte do meu estudo de automação em Python e mostra, de forma prática e rápida, como criar um **script capaz de comprimir imagens automaticamente**, diminuindo o tamanho dos arquivos e liberando espaço no computador ou servidor.
+As imagens reduzidas podem ser vistas na pasta **`images/`** do projeto.
 
 ## Coisas que eu aprendi neste projeto
 
